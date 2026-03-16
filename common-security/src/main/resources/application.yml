@@ -1,0 +1,2 @@
+internal-auth:
+  public-key-path: /etc/config/public.pem
