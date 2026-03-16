@@ -1,0 +1,9 @@
+target/
+*.log
+*.class
+*.jar
+*.iml
+.idea/
+.vscode/
+node_modules/
+.env
