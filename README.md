@@ -7,6 +7,7 @@ Security platform for microservice architectures using internal JWT token exchan
 ---
 
 # Architecture
+![CloudSpine Internal Token Security Architecture](CloudSpine.png)
 
 The platform follows a gateway-based security model.
 
