@@ -1,4 +1,4 @@
-# SpringBoot Internal Token Security
+# CloudSpine — SpringBoot Internal Token Security
 
 ![SpringBoot Internal Token Security Logo](SpringBootTokenPropagation.png)
 
@@ -6,7 +6,7 @@ Security platform for microservice architectures using internal JWT token exchan
 
 ---
 
-# Architecture
+# Architecture CloudSpine
 ![CloudSpine Internal Token Security Architecture](CloudSpine.png)
 
 The platform follows a gateway-based security model.
